@@ -146,6 +146,7 @@ input:focus{
     }
     .container{
         width: 360px;
+        margin-left: 30px;
     }
 
     .card{
